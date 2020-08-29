@@ -459,6 +459,7 @@
         android:orientation="horizontal">
 
         <Button
+            android:id="@+id/btn_storage_analyzer"
             android:layout_width="@dimen/width_180dp"
             android:layout_height="@dimen/height_40dp"
             android:layout_marginEnd="@dimen/margin_end_20dp"
@@ -469,6 +470,7 @@
             android:textSize="@dimen/text_size_10dp" />
 
         <Button
+            android:id="@+id/btn_recycle_bin"
             android:layout_width="@dimen/width_180dp"
             android:layout_height="@dimen/height_40dp"
             android:background="@drawable/bg_custom_button"
